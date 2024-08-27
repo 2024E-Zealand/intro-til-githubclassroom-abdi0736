@@ -6,5 +6,3 @@ public class Demo
     public string Lov { get; set; }
 
 }
-public string dem { get; set; }
-public string Lov { get; set; }
